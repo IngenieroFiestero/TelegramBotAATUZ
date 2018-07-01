@@ -1,0 +1,20 @@
+{
+    "msg" : "San Gabriel 2018",
+    "actividades" : [
+        {
+            "date" : "2017-09-29T10:00:00.737Z",
+            "title" : "Partido Futbol y Baloncesto",
+            "lugar" : "CMD Actur"
+        },
+        {
+            "date" : "2017-09-29T12:00:00.737Z",
+            "title" : "Paella",
+            "lugar" : "Plaza de las Ingenierias"
+        },
+        {
+            "date" : "2017-09-29T14:00:00.737Z",
+            "title" : "Campeonato Mus y Guiñote",
+            "lugar" : "Plaza de las Ingenierias"
+        }
+    ]
+}
