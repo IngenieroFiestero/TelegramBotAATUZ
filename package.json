@@ -1,0 +1,23 @@
+{
+  "name": "telegrambotaatuz",
+  "version": "1.0.0",
+  "description": "Bot de telegram de la AATUZ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SecSamDev/TelegramBotAATUZ.git"
+  },
+  "author": "Samuel Garces",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SecSamDev/TelegramBotAATUZ/issues"
+  },
+  "homepage": "https://github.com/SecSamDev/TelegramBotAATUZ#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
